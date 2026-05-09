@@ -4,4 +4,4 @@
 .
 
 <div align="center">
-<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/15e5dcde-be3a-46bb-a91b-bb22f430e28f" />
+<img width="900" height="520" alt="Image" src="https://github.com/user-attachments/assets/f08cfb0d-b2fc-40ef-9280-264083ed87fe" />
