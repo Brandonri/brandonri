@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1000" height="30" alt="Image" src="https://github.com/user-attachments/assets/663b0650-9e0f-41aa-a906-53380fd1fb47" />
+<img width="1246" height="240" alt="Image" src="https://github.com/user-attachments/assets/dd152f99-192e-46ac-b6d9-e67f3a8a0992" />
 
 𐙚
   
@@ -9,7 +9,7 @@
 ⸝⸝
 
 <div align="center">
-<img width="579" height="220" alt="Image" src="https://github.com/user-attachments/assets/470b03e3-4902-4c4a-a39d-771e910d4fb5" />
+<img width="736" height="521" alt="Image" src="https://github.com/user-attachments/assets/9341e3da-ce3f-4054-b296-aab0753f252d" />
 
 𖹭.ᐟ
 
